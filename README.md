@@ -20,7 +20,7 @@
 Статистика Haproxy, отражающая балансировку на 4-ом уровне
 
 Файл с настройками haproxy:
-[.cfg file](https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/files/haproxy_ex1.cfg)
+[.cfg file](https://github.com/MrVanG0gh/Netology_sflt_02/blob/main/files/haproxy_ex1.cfg)
 
 
 ---
@@ -41,4 +41,4 @@
 Статистика Haproxy, отражающая балансировку на 7-ом уровне
 
 Файл с настройками haproxy:
-[.cfg file](https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/files/haproxy_ex2.cfg)
+[.cfg file](https://github.com/MrVanG0gh/Netology_sflt_02/blob/main/files/haproxy_ex2.cfg)
