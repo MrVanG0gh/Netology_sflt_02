@@ -34,3 +34,11 @@
 ---
 
 ### Решение 2
+
+![Screen1](https://github.com/MrVanG0gh/Netology_sflt_02/blob/main/screens/Screen2_1.png)
+Демонстрация работы балансировщика на L7
+![Screen2](https://github.com/MrVanG0gh/Netology_sflt_02/blob/main/screens/Screen2_2.png)
+Статистика Haproxy, отражающая балансировку на 7-ом уровне
+
+Файл с настройками haproxy:
+[.cfg file](https://github.com/MrVanG0gh/Netology_sflt_01/blob/main/files/haproxy_ex2.cfg)
